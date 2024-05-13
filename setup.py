@@ -20,10 +20,10 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 
-name = 'Sales Prediction End to End Project',
+name = 'Store Sales Prediction',
 version = '0.0.1',
-author = 'Ayodele Ayodeji',
-author_email = 'ayodeleayodeji250@gmail.com',
+author = 'Suman Janarthanan',
+author_email = 'surplussuman987@gmail.com',
 packages = find_packages(),
 install_requires = get_requirements('requirements.txt')
 
