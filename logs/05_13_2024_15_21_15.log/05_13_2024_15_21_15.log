@@ -1,5 +1,6 @@
 [ 2024-05-13 15:21:15,892 ] 96 werkzeug - WARNING -  * Debugger is active!
 [ 2024-05-13 15:21:15,895 ] 96 werkzeug - INFO -  * Debugger PIN: 392-146-853
+<<<<<<< HEAD
 [ 2024-05-13 15:21:17,586 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:21:17] "GET / HTTP/1.1" 200 -
 [ 2024-05-13 15:21:17,618 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:21:17] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
 [ 2024-05-13 15:22:19,426 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:22:19] "GET / HTTP/1.1" 200 -
@@ -10,3 +11,5 @@
 [ 2024-05-13 15:23:24,548 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:23:24] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
 [ 2024-05-13 15:24:26,258 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:24:26] "GET / HTTP/1.1" 200 -
 [ 2024-05-13 15:24:26,290 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:24:26] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+=======
+>>>>>>> origin/master
