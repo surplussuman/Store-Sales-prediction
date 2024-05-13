@@ -1,0 +1,7 @@
+[ 2024-05-13 15:20:50,475 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-13 15:20:50,477 ] 96 werkzeug - INFO -  * Debugger PIN: 392-146-853
+[ 2024-05-13 15:20:50,868 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:20:50] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-05-13 15:20:50,899 ] 96 werkzeug - INFO - 127.0.0.1 - - [13/May/2024 15:20:50] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-13 15:21:13,577 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Suman\\Sales price prediction\\Stores-Sales-Prediction-ML-Project\\app.py', reloading
+[ 2024-05-13 15:21:13,582 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Suman\\Sales price prediction\\Stores-Sales-Prediction-ML-Project\\app.py', reloading
+[ 2024-05-13 15:21:13,582 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Suman\\Sales price prediction\\Stores-Sales-Prediction-ML-Project\\app.py', reloading
